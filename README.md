@@ -19,10 +19,6 @@ I Do Scripting And Coding
 * How Many Hours Do I Do Work Every Week:
   * Monday To Friday: 3 Hours
   * Saturday To Sunday: 4.5 Hours
-* Profits Of Hiring Me:
-  * I Always Do Work Organized
-  * Can Do More Then 1 Commission For You
-  * High Quality Standards
 
 ****
 
