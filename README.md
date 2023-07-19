@@ -27,5 +27,3 @@ I Do Scripting And Coding
 ⚠️ This Section Is Being Updated With More Creations ⚠️
 
 [Coding Tycoon](https://www.roblox.com/games/13351607182/ALPHA-Coding-Tycoon)
-
-****
