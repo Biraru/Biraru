@@ -1,12 +1,12 @@
 ## About Me
 
-Hi There, I Am A Scripter Named CheapPlayz
+Hi There, I Am CheapPlayz and I Am A Developer
 
 ****
 
-## What I Do?
+## What I Do
 
-I Do Scripting And Programming
+I Do Programming, With Experience In Different Languages
 
 ****
 
@@ -14,9 +14,9 @@ I Do Scripting And Programming
 
 * I Live In Pakistan
 * Time Zone: PST / Pakistan Time Zone
-* Time Scripting:
+* Experience With Programming:
   * 1 Year
-* How Many Hours Do I Do Work Every Week:
+* How Many Hours I Work Every Week:
   * Monday To Friday: 3 Hours
   * Saturday To Sunday: 4.5 Hours
 
