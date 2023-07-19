@@ -6,7 +6,7 @@ Hi There, I Am A Scripter Named CheapPlayz
 
 ## What I Do?
 
-I Do Scripting And Coding
+I Do Scripting And Programming
 
 ****
 
