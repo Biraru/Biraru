@@ -42,3 +42,6 @@ I Do Programming, With Experience In Different Languages
 [![Stats](https://github-readme-stats-rho-sandy-71.vercel.app/api/?username=CheapPlayz&theme=dark)]()
 
 ****
+
+### Top Languages I Use
+[![Top-Langs](https://github-readme-stats-rho-sandy-71.vercel.app/api/top-langs/?username=CheapPlayz&theme=dark)]()
