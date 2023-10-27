@@ -15,10 +15,10 @@ I Do Programming, With Experience In Different Languages
 * I Live In Pakistan
 * Time Zone: PST / Pakistan Time Zone
 * Experience With Programming:
-  * 1 Year
+  * 2 Year
 * How Many Hours I Work Every Week:
-  * Monday To Friday: 3 Hours
-  * Saturday To Sunday: 4.5 Hours
+  * Monday To Thursday: 3 Hours
+  * Friday To Saturday: 4.5 Hours
 
 ****
 
@@ -26,4 +26,15 @@ I Do Programming, With Experience In Different Languages
 
 ⚠️ This Section Is Being Updated With More Creations ⚠️
 
+### New Projects:
+
+**NON RN XD**
+
+### Old Projects:
+
 [Coding Tycoon](https://www.roblox.com/games/13351607182/ALPHA-Coding-Tycoon)
+
+## Coding Stats
+
+### Readme Stats:
+[![Stats](https://github-readme-stats-cp.vercel.app/api/?username=Debuggingss&theme=dark)]
