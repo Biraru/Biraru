@@ -39,6 +39,6 @@ I Do Programming, With Experience In Different Languages
 ## Coding Stats
 
 ### Readme Stats:
-[![Stats](https://github-readme-stats-cp.vercel.app/api/?username=CheapPlayz&theme=dark)]()
+[![Stats](https://github-readme-stats-rho-sandy-71.vercel.app/api/?username=CheapPlayz&theme=dark)]()
 
 ****
