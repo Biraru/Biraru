@@ -34,7 +34,11 @@ I Do Programming, With Experience In Different Languages
 
 [Coding Tycoon](https://www.roblox.com/games/13351607182/ALPHA-Coding-Tycoon)
 
+****
+
 ## Coding Stats
 
 ### Readme Stats:
 [![Stats](https://github-readme-stats-cp.vercel.app/api/?username=CheapPlayz&theme=dark)]()
+
+****
