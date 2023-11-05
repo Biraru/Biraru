@@ -1,12 +1,8 @@
 ## About Me
 
-Hi There, I Am CheapPlayz and I Am A Developer
+Hi There, I Am CheapPlayz and I Am A Developer,
+
 I Do Programming, With Experience In Different Languages
-
-****
-
-## Details About Me
-
 * I Live In Pakistan
 * Time Zone: PST / Pakistan Time Zone
 * Experience With Programming:
