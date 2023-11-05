@@ -11,18 +11,12 @@ I Do Programming, With Experience In Different Languages
   * Monday To Thursday: 3 Hours
   * Friday To Saturday: 4.5 Hours
 
-****
-
 ## Coding Stats
 
 [![Stats](https://github-readme-stats-rho-sandy-71.vercel.app/api/?username=CheapPlayz&theme=dark)]()
 
 [![Top-Langs](https://github-readme-stats-rho-sandy-71.vercel.app/api/top-langs/?username=CheapPlayz&theme=dark)]()
 
-****
-
 ## Support
 
-You Can Support Me At [Buy Me A Coffee](https://www.buymeacoffee.com/cheapplayz)
-
-****
+<a href="https://www.buymeacoffee.com/cheapplayz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cheapplayz&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
