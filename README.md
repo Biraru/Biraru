@@ -1,11 +1,6 @@
 ## About Me
 
 Hi There, I Am CheapPlayz and I Am A Developer
-
-****
-
-## What I Do
-
 I Do Programming, With Experience In Different Languages
 
 ****
@@ -24,14 +19,14 @@ I Do Programming, With Experience In Different Languages
 
 ## Coding Stats
 
-### Readme Stats:
 [![Stats](https://github-readme-stats-rho-sandy-71.vercel.app/api/?username=CheapPlayz&theme=dark)]()
 
-****
-
-### Top Languages I Use
 [![Top-Langs](https://github-readme-stats-rho-sandy-71.vercel.app/api/top-langs/?username=CheapPlayz&theme=dark)]()
+
+****
 
 ## Support
 
 You Can Support Me At [Buy Me A Coffee](https://www.buymeacoffee.com/cheapplayz)
+
+****
