@@ -20,7 +20,9 @@ I Do Programming, With Experience In Different Languages
 ## Projects:
 
 [ModSpoof (Java)](https://github.com/CheapPlayz/ModSpoof)
+
 [DeepwokenTools (HTML, CSS, Javascript. Disconntinued Till I Decide To Resume It)](https://github.com/CheapPlayz/cheapplayz.github.io)
+
 [LadiesAttireAPI (Javascript)](https://github.com/CheapPlayz/LadiesAttireAPI)
 
 ## Support
