@@ -1,6 +1,6 @@
 ## About Me
 
-Hi There, I Am CheapPlayz and I Am A Developer,
+Hi There, I Am BiraruYT and I Am A Developer,
 
 I Do Programming, With Experience In Different Languages
 * I Live In Pakistan
@@ -13,17 +13,17 @@ I Do Programming, With Experience In Different Languages
 
 ## Coding Stats
 
-[![Stats](https://github-readme-stats-rho-sandy-71.vercel.app/api/?username=CheapPlayz&theme=dark)]()
+[![Stats](https://github-readme-stats-rho-sandy-71.vercel.app/api/?username=BiraruYT&theme=dark)]()
 
-[![Top-Langs](https://github-readme-stats-rho-sandy-71.vercel.app/api/top-langs/?username=CheapPlayz&theme=dark)]()
+[![Top-Langs](https://github-readme-stats-rho-sandy-71.vercel.app/api/top-langs/?username=BiraruYT&theme=dark)]()
 
 ## Projects:
 
-[ModSpoof (Java)](https://github.com/CheapPlayz/ModSpoof)
+[ModSpoof (Java)](https://github.com/BiraruYT/ModSpoof)
 
-[DeepwokenTools (HTML, CSS, Javascript. Disconntinued Till I Decide To Resume It)](https://github.com/CheapPlayz/cheapplayz.github.io)
+[DeepwokenTools (HTML, CSS, Javascript. Disconntinued Till I Decide To Resume It)](https://github.com/BiraruYT/cheapplayz.github.io)
 
-[LadiesAttireAPI (Javascript)](https://github.com/CheapPlayz/LadiesAttireAPI)
+[LadiesAttireAPI (Javascript)](https://github.com/BiraruYT/LadiesAttireAPI)
 
 ## Support
 
