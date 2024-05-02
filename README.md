@@ -6,10 +6,10 @@ I Do Programming, With Experience In Different Languages
 * I Live In Pakistan
 * Time Zone: PST / Pakistan Time Zone
 * Experience With Programming:
-  * 2.85 Year
+  * 2.85 Years
 * How Many Hours I Work Every Week:
-  * Monday To Thursday: 3 Hours
-  * Friday To Saturday: 4.5 Hours
+  * Monday To Thursday: 25 Hours
+  * Friday To Saturday: 15 Hours
 
 ## Coding Stats
 
