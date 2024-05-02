@@ -1,6 +1,6 @@
 ## About Me
 
-Hi There, I Am BiraruYT and I Am A Developer,
+Hi There, I Am Biraru and I Am A Developer,
 
 I Do Programming, With Experience In Different Languages
 * I Live In Pakistan
