@@ -1,2 +1,4 @@
-<h1 align="center">Biraru</h1>
-<h4 align="center">Developer</h1>
+<div align="center">
+  <h1>Hi, i am Biraru</h1>
+  <h3>Developing software</h3>
+</div>
