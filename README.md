@@ -62,15 +62,3 @@
 </div>
 
 ###
-
-<h3 align="center">Songs I Like</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313ccq7irbdxibj4garboqaad6dm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ccq7irbdxibj4garboqaad6dm&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
