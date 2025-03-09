@@ -1,63 +1,10 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/BiraruX/BiraruX/main/icon.png"  />
-</div>
+  <img height="150" src="https://raw.githubusercontent.com/BiraruX/BiraruX/main/icon.png"/>
 
-###
+  <h1>Hey!</h1>
+  <h2>I have moved over to gitlab's, please follow the link below to my new gitlab.</h1>
 
-<h1 align="center">Hey!</h1>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/914029241782398976" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@BiraruX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://ko-fi.com/biraru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
-  <a href="https://www.patreon.com/c/BiraruX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
+  <a href="https://gitlab.com/biraru">
+    <img height=256 src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/cc2f52df0e32f639eb01c06a4816ede0/gitlab-logo-500.svg"/>
   </a>
 </div>
-
-###
-
-<h3 align="center">Who Am I?</h3>
-
-###
-
-<p align="center">I'm Biraru, a passionate developer who likes to create ideas with code.<br><br>- Programming<br>I love creating applications and games that people love to use or play!<br>- Experience<br>6+ Years in Scripting & Development<br>- Availability<br>Weekdays: 15 Hours<br>Weekends: 4.5 Hours</p>
-
-###
-
-<h3 align="center">Language And Tools I Use</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="center">My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiraruX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BiraruX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
